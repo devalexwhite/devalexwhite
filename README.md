@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hey, I'm Alex.
+
+I'm a developer and product guy that's passionate about creating killer user experiences. I believe in closely coupling design and development, and spreading the importance of UX.
 
 <!--
 **devalexwhite/devalexwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
