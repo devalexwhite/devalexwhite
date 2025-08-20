@@ -5,4 +5,4 @@ I'm just a dad in Ohio that builds cool internet stuff like [BookLeaf](https://b
 
 * 🌍  I'm based in Hilliard, Ohio
 *  ✉️  You can contact me at [alex.white@hey.com](mailto:alex.white@hey.com)
-* 🔗  My website and is [thatalexguy.dev](https://thatalexguy.dev) 
+* 🔗  My website is [thatalexguy.dev](https://thatalexguy.dev) 
